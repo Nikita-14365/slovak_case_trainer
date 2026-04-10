@@ -1,0 +1,273 @@
+{
+    "chlap": {
+        "Sing. Nominatív": "chlap",
+        "Sing. Genitív": "chlapa",
+        "Sing. Datív": "chlapovi",
+        "Sing. Akuzatív": "chlapa",
+        "Sing. Lokál": "chlapovi",
+        "Sing. Inštrumentál": "chlapom",
+
+        "Plur. Nominatív": "chlapi",
+        "Plur. Genitív": "chlapov",
+        "Plur. Datív": "chlapom",
+        "Plur. Akuzatív": "chlapov",
+        "Plur. Lokál": "chlapoch",
+        "Plur. Inštrumentál": "chlapmi",
+    },
+
+    "hrdina": {
+        "Sing. Nominatív": "hrdina",
+        "Sing. Genitív": "hrdinu",
+        "Sing. Datív": "hrdinovi",
+        "Sing. Akuzatív": "hrdinu",
+        "Sing. Lokál": "hrdinovi",
+        "Sing. Inštrumentál": "hrdinom",
+
+        "Plur. Nominatív": "hrdinovia",
+        "Plur. Genitív": "hrdinov",
+        "Plur. Datív": "hrdinom",
+        "Plur. Akuzatív": "hrdinov",
+        "Plur. Lokál": "hrdinoch",
+        "Plur. Inštrumentál": "hrdinami",
+    },
+
+    "dub": {
+        "Sing. Nominatív": "dub",
+        "Sing. Genitív": "duba",
+        "Sing. Datív": "dubu",
+        "Sing. Akuzatív": "dub",
+        "Sing. Lokál": "dube",
+        "Sing. Inštrumentál": "dubom",
+
+        "Plur. Nominatív": "duby",
+        "Plur. Genitív": "dubov",
+        "Plur. Datív": "dubom",
+        "Plur. Akuzatív": "duby",
+        "Plur. Lokál": "duboch",
+        "Plur. Inštrumentál": "dubmi",
+    },
+
+    "stroj": {
+        "Sing. Nominatív": "stroj",
+        "Sing. Genitív": "stroja",
+        "Sing. Datív": "stroju",
+        "Sing. Akuzatív": "stroj",
+        "Sing. Lokál": "stroji",
+        "Sing. Inštrumentál": "strojom",
+
+        "Plur. Nominatív": "stroje",
+        "Plur. Genitív": "strojov",
+        "Plur. Datív": "strojom",
+        "Plur. Akuzatív": "stroje",
+        "Plur. Lokál": "strojoch",
+        "Plur. Inštrumentál": "strojmi",
+    },
+
+    "žena": {
+        "Sing. Nominatív": "žena",
+        "Sing. Genitív": "ženy",
+        "Sing. Datív": "žene",
+        "Sing. Akuzatív": "ženu",
+        "Sing. Lokál": "žene",
+        "Sing. Inštrumentál": "ženou",
+
+        "Plur. Nominatív": "ženy",
+        "Plur. Genitív": "žien",
+        "Plur. Datív": "ženám",
+        "Plur. Akuzatív": "ženy",
+        "Plur. Lokál": "ženách",
+        "Plur. Inštrumentál": "ženami",
+    },
+
+    "ulica": {
+        "Sing. Nominatív": "ulica",
+        "Sing. Genitív": "ulice",
+        "Sing. Datív": "ulici",
+        "Sing. Akuzatív": "ulicu",
+        "Sing. Lokál": "ulici",
+        "Sing. Inštrumentál": "ulicou",
+
+        "Plur. Nominatív": "ulice",
+        "Plur. Genitív": "ulíc",
+        "Plur. Datív": "uliciam",
+        "Plur. Akuzatív": "ulice",
+        "Plur. Lokál": "uliciach",
+        "Plur. Inštrumentál": "ulicami",
+    },
+
+    "dlaň": {
+        "Sing. Nominatív": "dlaň",
+        "Sing. Genitív": "dlane",
+        "Sing. Datív": "dlani",
+        "Sing. Akuzatív": "dlaň",
+        "Sing. Lokál": "dlani",
+        "Sing. Inštrumentál": "dlaňou",
+
+        "Plur. Nominatív": "dlane",
+        "Plur. Genitív": "dlaní",
+        "Plur. Datív": "dlaniam",
+        "Plur. Akuzatív": "dlane",
+        "Plur. Lokál": "dlaniach",
+        "Plur. Inštrumentál": "dlaňami",
+    },
+
+    "kosť": {
+        "Sing. Nominatív": "kosť",
+        "Sing. Genitív": "kosti",
+        "Sing. Datív": "kosti",
+        "Sing. Akuzatív": "kosť",
+        "Sing. Lokál": "kosti",
+        "Sing. Inštrumentál": "kosťou",
+
+        "Plur. Nominatív": "kosti",
+        "Plur. Genitív": "kostí",
+        "Plur. Datív": "kostiam",
+        "Plur. Akuzatív": "kosti",
+        "Plur. Lokál": "kostiach",
+        "Plur. Inštrumentál": "kosťami",
+    },
+
+    "mesto": {
+        "Sing. Nominatív": "mesto",
+        "Sing. Genitív": "mesta",
+        "Sing. Datív": "mestu",
+        "Sing. Akuzatív": "mesto",
+        "Sing. Lokál": "meste",
+        "Sing. Inštrumentál": "mestom",
+
+        "Plur. Nominatív": "mestá",
+        "Plur. Genitív": "miest",
+        "Plur. Datív": "mestám",
+        "Plur. Akuzatív": "mestá",
+        "Plur. Lokál": "mestách",
+        "Plur. Inštrumentál": "mestami",
+    },
+
+    "srdce": {
+        "Sing. Nominatív": "srdce",
+        "Sing. Genitív": "srdca",
+        "Sing. Datív": "srdcu",
+        "Sing. Akuzatív": "srdce",
+        "Sing. Lokál": "srdci",
+        "Sing. Inštrumentál": "srdcom",
+
+        "Plur. Nominatív": "srdcia",
+        "Plur. Genitív": "sŕdc",
+        "Plur. Datív": "srdciam",
+        "Plur. Akuzatív": "srdcia",
+        "Plur. Lokál": "srdciach",
+        "Plur. Inštrumentál": "srdcami",
+    },
+
+    "vysvedčenie": {
+        "Sing. Nominatív": "vysvedčenie",
+        "Sing. Genitív": "vysvedčenia",
+        "Sing. Datív": "vysvedčeniu",
+        "Sing. Akuzatív": "vysvedčenie",
+        "Sing. Lokál": "vysvedčení",
+        "Sing. Inštrumentál": "vysvedčením",
+
+        "Plur. Nominatív": "vysvedčenia",
+        "Plur. Genitív": "vysvedčení",
+        "Plur. Datív": "vysvedčeniam",
+        "Plur. Akuzatív": "vysvedčenia",
+        "Plur. Lokál": "vysvedčeniach",
+        "Plur. Inštrumentál": "vysvedčeniami",
+    },
+
+    "dievča": {
+        "Sing. Nominatív": "dievča",
+        "Sing. Genitív": "dievčaťa",
+        "Sing. Datív": "dievčaťu",
+        "Sing. Akuzatív": "dievča",
+        "Sing. Lokál": "dievčati",
+        "Sing. Inštrumentál": "dievčaťom",
+
+        "Plur. a) Nominatív": "dievčence",
+        "Plur. a) Genitív": "dievčeniec",
+        "Plur. a) Datív": "dievčencom",
+        "Plur. a) Akuzatív": "dievčence",
+        "Plur. a) Lokál": "dievčencoch",
+        "Plur. a) Inštrumentál": "dievčencami",
+
+        "Plur. b) Nominatív": "dievčatá",
+        "Plur. b) Genitív": "dievčat",
+        "Plur. b) Datív": "dievčatám",
+        "Plur. b) Akuzatív": "dievčatá",
+        "Plur. b) Lokál": "dievčatách",
+        "Plur. b) Inštrumentál": "dievčatami",
+    },
+
+    "gazdiná": {
+        "Sing. Nominatív": "gazdiná",
+        "Sing. Genitív": "gazdinej",
+        "Sing. Datív": "gazdinej",
+        "Sing. Akuzatív": "gazdinú",
+        "Sing. Lokál": "gazdinej",
+        "Sing. Inštrumentál": "gazdinou",
+
+        "Plur. Nominatív": "gazdiné",
+        "Plur. Genitív": "gazdín",
+        "Plur. Datív": "gazdinám",
+        "Plur. Akuzatív": "gazdiné",
+        "Plur. Lokál": "gazdinách",
+        "Plur. Inštrumentál": "gazdinami",
+    },
+
+    "pani": {
+        "Sing. Nominatív": "pani",
+        "Sing. Genitív": "panej",
+        "Sing. Datív": "panej",
+        "Sing. Akuzatív": "paniu",
+        "Sing. Lokál": "panej",
+        "Sing. Inštrumentál": "paňou",
+
+        "Plur. Nominatív": "panie",
+        "Plur. Genitív": "paní",
+        "Plur. Datív": "paniam",
+        "Plur. Akuzatív": "panie",
+        "Plur. Lokál": "paniach",
+        "Plur. Inštrumentál": "paniami",
+    },
+
+    "mať": {
+        "Sing. Nominatív": "mať",
+        "Sing. Genitív": "matere",
+        "Sing. Datív": "materi",
+        "Sing. Akuzatív": "mať",
+        "Sing. Lokál": "materi",
+        "Sing. Inštrumentál": "materou",
+
+        "Plur. Nominatív": "matere",
+        "Plur. Genitív": "materí",
+        "Plur. Datív": "materiam",
+        "Plur. Akuzatív": "matere",
+        "Plur. Lokál": "materiach",
+        "Plur. Inštrumentál": "materami",
+    },
+
+    "kuli": {
+        "Sing. Nominatív": "kuli",
+        "Sing. Genitív": "kuliho",
+        "Sing. Datív": "kulimu",
+        "Sing. Akuzatív": "kuliho",
+        "Sing. Lokál": "kulim",
+        "Sing. Inštrumentál": "kulim",
+
+        "Plur. Nominatív": "kuliovia",
+        "Plur. Genitív": "kuliov",
+        "Plur. Datív": "kuliom",
+        "Plur. Akuzatív": "kuliov",
+        "Plur. Lokál": "kulioch",
+        "Plur. Inštrumentál": "kuliami",
+    },
+
+    "ľudia": {
+        "Plur. Nominatív": "ľudia",
+        "Plur. Genitív": "ľudí",
+        "Plur. Datív": "ľuďom",
+        "Plur. Akuzatív": "ľudí",
+        "Plur. Lokál": "ľuďoch",
+        "Plur. Inštrumentál": "ľuďmi",
+    }
+}
